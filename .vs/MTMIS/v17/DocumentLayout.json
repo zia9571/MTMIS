@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\clerkadd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:clerkadd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\addmovie.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:addmovie.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\clerklogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:clerklogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\clerkmovieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:clerkmovieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\cinemalocation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:cinemalocation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\clerkadd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:clerkadd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\clerkmovieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:clerkmovieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\cinemalocation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:cinemalocation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\adminmovieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:adminmovieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\bookticket.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:bookticket.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\bookticket.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:bookticket.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\adminmovieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:adminmovieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\movieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:movieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\movieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:movieshow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\ticketprint.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:ticketprint.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\boxoffice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:boxoffice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\booking.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:booking.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\adminlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:adminlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\addmovie.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:addmovie.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\boxoffice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:boxoffice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\ticketprint.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:ticketprint.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\booking.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:booking.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\clerklogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:clerklogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\adminlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:adminlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|c:\\users\\shaik\\onedrive\\desktop\\se\\mtmis\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1679A-9D26-4C9D-A6B3-3BFF2AB252BA}|MTMIS.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookTicket.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\BookTicket.vb",
+              "RelativeDocumentMoniker": "BookTicket.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\BookTicket.vb",
+              "RelativeToolTip": "BookTicket.vb",
+              "ViewState": "AgIAADIBAAAAAAAAAAAkwG4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T11:49:00.832Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Booking.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\Booking.vb",
+              "RelativeDocumentMoniker": "Booking.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\Booking.vb",
+              "RelativeToolTip": "Booking.vb",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAQwJcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T16:46:01.21Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketPrint.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\TicketPrint.vb",
+              "RelativeDocumentMoniker": "TicketPrint.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\TicketPrint.vb",
+              "RelativeToolTip": "TicketPrint.vb",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T08:45:55.843Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClerkLogin.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkLogin.vb",
+              "RelativeDocumentMoniker": "ClerkLogin.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkLogin.vb",
+              "RelativeToolTip": "ClerkLogin.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T12:45:03.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddMovie.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AddMovie.vb",
+              "RelativeDocumentMoniker": "AddMovie.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AddMovie.vb",
+              "RelativeToolTip": "AddMovie.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T05:53:04.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClerkAdd.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkAdd.vb",
+              "RelativeDocumentMoniker": "ClerkAdd.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkAdd.vb [Design]",
+              "RelativeToolTip": "ClerkAdd.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T17:33:20.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClerkMovieShow.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkMovieShow.vb",
+              "RelativeDocumentMoniker": "ClerkMovieShow.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkMovieShow.vb",
+              "RelativeToolTip": "ClerkMovieShow.vb",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwIMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T10:26:56.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CinemaLocation.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\CinemaLocation.vb",
+              "RelativeDocumentMoniker": "CinemaLocation.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\CinemaLocation.vb",
+              "RelativeToolTip": "CinemaLocation.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvyIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T11:14:34.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClerkAdd.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkAdd.vb",
+              "RelativeDocumentMoniker": "ClerkAdd.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkAdd.vb",
+              "RelativeToolTip": "ClerkAdd.vb",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwDkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T17:38:21.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClerkMovieShow.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkMovieShow.vb",
+              "RelativeDocumentMoniker": "ClerkMovieShow.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkMovieShow.vb [Design]",
+              "RelativeToolTip": "ClerkMovieShow.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T07:13:58.354Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CinemaLocation.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\CinemaLocation.vb",
+              "RelativeDocumentMoniker": "CinemaLocation.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\CinemaLocation.vb [Design]",
+              "RelativeToolTip": "CinemaLocation.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T10:31:27.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminMovieShow.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AdminMovieShow.vb",
+              "RelativeDocumentMoniker": "AdminMovieShow.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AdminMovieShow.vb [Design]",
+              "RelativeToolTip": "AdminMovieShow.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T07:18:15.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookTicket.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\BookTicket.vb",
+              "RelativeDocumentMoniker": "BookTicket.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\BookTicket.vb [Design]",
+              "RelativeToolTip": "BookTicket.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T11:18:13.388Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminMovieShow.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AdminMovieShow.vb",
+              "RelativeDocumentMoniker": "AdminMovieShow.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AdminMovieShow.vb",
+              "RelativeToolTip": "AdminMovieShow.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T07:20:54.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieShow.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\MovieShow.vb",
+              "RelativeDocumentMoniker": "MovieShow.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\MovieShow.vb [Design]",
+              "RelativeToolTip": "MovieShow.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-01T11:41:14.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieShow.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\MovieShow.vb",
+              "RelativeDocumentMoniker": "MovieShow.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\MovieShow.vb",
+              "RelativeToolTip": "MovieShow.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-01T12:42:25.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BoxOffice.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\BoxOffice.vb",
+              "RelativeDocumentMoniker": "BoxOffice.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\BoxOffice.vb",
+              "RelativeToolTip": "BoxOffice.vb",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T13:15:04.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T08:54:33.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminLogin.vb",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AdminLogin.vb",
+              "RelativeDocumentMoniker": "AdminLogin.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AdminLogin.vb",
+              "RelativeToolTip": "AdminLogin.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T05:35:35.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddMovie.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AddMovie.vb",
+              "RelativeDocumentMoniker": "AddMovie.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AddMovie.vb [Design]",
+              "RelativeToolTip": "AddMovie.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T05:47:58.418Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BoxOffice.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\BoxOffice.vb",
+              "RelativeDocumentMoniker": "BoxOffice.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\BoxOffice.vb [Design]",
+              "RelativeToolTip": "BoxOffice.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T11:52:08.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TicketPrint.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\TicketPrint.vb",
+              "RelativeDocumentMoniker": "TicketPrint.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\TicketPrint.vb [Design]",
+              "RelativeToolTip": "TicketPrint.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-24T08:15:12.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Booking.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\Booking.vb",
+              "RelativeDocumentMoniker": "Booking.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\Booking.vb [Design]",
+              "RelativeToolTip": "Booking.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T15:01:48.602Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClerkLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkLogin.vb",
+              "RelativeDocumentMoniker": "ClerkLogin.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\ClerkLogin.vb [Design]",
+              "RelativeToolTip": "ClerkLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-02T07:47:50.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AdminLogin.vb",
+              "RelativeDocumentMoniker": "AdminLogin.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\AdminLogin.vb [Design]",
+              "RelativeToolTip": "AdminLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-22T09:58:01.056Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\shaik\\OneDrive\\Desktop\\SE\\MTMIS\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-22T09:42:30.144Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
