@@ -27,11 +27,7 @@ Welcome to the **Movie Theater Management Information System (MTMIS)** repositor
 - **Database**: SQL scripts for creating and managing the database.
 - **Documentation**: Comprehensive documentation explaining the system and its features.
 
-## 🖥️ Setup Instructions
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/MTMIS.git
+## 🖥️ Documentation
 
 Below is the link containing the entire documentation of the project- inlcuding the ER-Diagrams, DFD, Use Case diagram, Class and Object diagram as well as the screenshots and codes of the system. 
 
